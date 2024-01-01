@@ -1,5 +1,6 @@
 # Online-retail
 Online retail dataset | Association rule mining with apriori algorithm
+### Objective:
 Unveiling Customer Preferences through Association Rule Mining: A Market Basket Analysis of an Online Retail Dataset.
 ### Abstract:
 This study explores customer purchasing behaviors within an online retail dataset by applying association rule mining using the Apriori algorithm. The aim is to uncover and understand the relationships between products purchased, identifying top product associations reflecting customer preferences in a market basket analysis context.
